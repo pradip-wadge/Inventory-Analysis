@@ -84,7 +84,7 @@ Perform Data Cleaning and EDA
 ### 2. Open data_cleaning.ipynb in Jupyter Notebook and run the cells to clean and prepare the data for analysis.
 - Save the cleaned files in the data/cleaned folder for database loading.
 
-### 3. Load Data into SQL Database
+### 3. Load Data Into SQL Database
 - Run the load_to_sql.py script to load all cleaned data files into MySQL tables:
 ``` bash
 python scripts/load_to_sql.py
