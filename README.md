@@ -1,6 +1,6 @@
 # Catch project presentation
 Inventory Analysis: https://youtu.be/7kgBPWAAAzE  
-Description: Assists organizations handle their inventory and manage their supply chain costs.123455
+Description: Assists organizations handle their inventory and manage their supply chain costs.
 
 # Inventory Analysis
 <img src="https://drive.google.com/uc?export=view&id=1ebEtsd8OazZg5JEadEf8Cc6ys-A6bUxK" alt="Project Logo" width="200" height="200">
